@@ -1,2 +1,3 @@
 # Tide
-The official tide roblox script for steal a brainrot.
+
+The official Tide Roblox script for Steal a Brainrot.
